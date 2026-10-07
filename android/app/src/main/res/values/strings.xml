@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SOS Guardian</string>
+    <string name="accessibility_description">Enables SOS Guardian to automatically send emergency distress messages with live location when WhatsApp opens during an SOS event.</string>
+</resources>

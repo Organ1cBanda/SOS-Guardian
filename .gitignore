@@ -1,0 +1,38 @@
+# Node & Package Managers
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Android
+android/.gradle/
+android/app/build/
+android/build/
+android/.idea/
+android/*.iml
+android/app/*.iml
+android/local.properties
+.gradle/
+build/
+
+# Keystores & Secrets (allow release.keystore if required for local build, or ignore credentials)
+*.jks
+*.keystore
+!android/app/release.keystore
+
+# Android Packages / Binaries
+*.apk
+*.aab
+
+# Metro Bundler Cache
+.metro/
+metro-cache/
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.log
